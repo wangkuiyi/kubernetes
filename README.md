@@ -17,7 +17,8 @@
 
 ### Part 1. Running Kubernetes
 
-1. Run on Linux using Vagrant
+1. Run on a Single Linux Box
+1. Run on Linux Boxes using Vagrant
 1. Run on Debian Boxes on GCE
 1. Run on Debian Boxes on AWS
 
